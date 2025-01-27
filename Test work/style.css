@@ -255,12 +255,6 @@ input {
     position: absolute;
 }
 
-.card-item>img {
-    top: 65px;
-    left: 30px;
-    position: absolute;
-}
-
 .card-item > h2 {
     position: absolute;
     top: 140px;
@@ -288,7 +282,7 @@ input {
     padding: 12px 14px;
 }
 
-#tailwind > img {
+#tailwind > svg {
     background-color: white;
     border-radius: 7.458px;
     padding: 18px 10px;
