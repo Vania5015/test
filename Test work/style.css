@@ -3,7 +3,7 @@ html, body {
     padding: 0;
     background-color: #EFF0F3;
     overflow-x: hidden;
-    font-family: "Plus Jakarta Sans";
+    font-family: "Plus Jakarta Sans", sans-serif;
 }
 
 .heading-1 {
@@ -255,6 +255,12 @@ input {
     position: absolute;
 }
 
+.card-item>img {
+    top: 65px;
+    left: 30px;
+    position: absolute;
+}
+
 .card-item > h2 {
     position: absolute;
     top: 140px;
@@ -282,7 +288,7 @@ input {
     padding: 12px 14px;
 }
 
-#tailwind > svg {
+#tailwind > img {
     background-color: white;
     border-radius: 7.458px;
     padding: 18px 10px;
